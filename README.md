@@ -15,6 +15,8 @@
 
 - 📄 Know about my experiences [https://github.com/bhavyajshah/bhavyajshah.github.io/blob/24dab4b731bff6fb8158578d4869c6bb6458c727/static/media/resume.bca4197aea3b2a76287a.pdf](https://github.com/bhavyajshah/bhavyajshah.github.io/blob/24dab4b731bff6fb8158578d4869c6bb6458c727/static/media/resume.bca4197aea3b2a76287a.pdf)
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c752e347-5bcc-4231-a791-fccdb6d6603d/deploy-status)](https://app.netlify.com/sites/reactjs-insta-clone/deploys)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/bhavyashah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="bhavyashah" height="30" width="40" /></a>
