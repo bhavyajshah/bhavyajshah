@@ -29,9 +29,6 @@ Hi, I'm **Bhavya J Shah**, a **MERN Stack Developer & React Native Developer** f
 
 🔥 **Have a project idea? Let’s make it happen!**  
 
-📩 **Hire Me on Upwork:**  
-[![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-brightgreen?style=for-the-badge&logo=upwork)](https://www.upwork.com/freelancers/~bhavyajshah)  
-
 ---
 
 ## 📡 Connect With Me
@@ -93,5 +90,4 @@ I believe in crafting **innovative, efficient, and scalable applications** that 
 
 📩 **Get in touch:**  
 📧 **bhavyashah0105@gmail.com**  
-💼 **[Hire Me on Upwork](https://www.upwork.com/freelancers/~bhavyajshah)**  
 ---
